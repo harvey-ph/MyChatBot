@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+sqlalchemy
+psycopg2-binary
+huggingface-hub
+transformers
